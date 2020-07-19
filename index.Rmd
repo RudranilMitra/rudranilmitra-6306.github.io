@@ -1,0 +1,36 @@
+---
+title: "About Me"
+author: "Rudranil Mitra"
+date: "7/18/2020"
+output: 
+   html_document:
+      includes:
+         after_body: footer.html
+---
+
+
+### My Name 
+Hello I am Rudranil !
+
+### My Picture 
+![](http://web.schoollog.in/images/img_avatar2.png)
+
+### Where Am i from 
+I am originally from India, and I live in Dallas ! 
+
+### My Interests
+I Love to eat and Sleep :) 
+
+### Where I Work 
+I work for Norstrom
+
+### Where you went to school
+I went to school in india 
+
+
+
+
+
+
+
+
